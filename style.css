@@ -1702,3 +1702,22 @@ hr:before {
 		height: 11.703125rem !important;
 	}
 }
+.sp-dd {
+	float: right;
+	position: relative;
+	top: -1px;
+	padding: 5px;
+	text-align: left;
+	text-transform: uppercase;
+	margin: -1px 5px 0px 0px;
+	font: 10px Roboto;
+	background: transparent;
+	line-height: 1.5;
+	color: #fffafa;
+	border: hsl(0, 0%, 100%) 1px solid;
+	display: block;
+  }
+  a.sp-cred {
+	color: #fffefe;
+	text-decoration: none;
+  }
